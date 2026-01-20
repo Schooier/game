@@ -34,3 +34,15 @@ Controls:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+Testvragen:
+Test of je niet uit de map kan
+Test of er geen grote glitches zijn
+Is het menu goed en duidelijk?
+Is er iets wat je nog extra wil?
+Is het menu niet te klein?
+Zijn de geluiden goed?
+is het spel makelijk te begrijpen?
+moet je kennis hebben om dit spel te spelen?
+is de UI en UX goed ?
+is het een spel die je vaker zou spelen in je vrije tijd?
