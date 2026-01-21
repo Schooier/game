@@ -46,3 +46,11 @@ is het spel makelijk te begrijpen?
 moet je kennis hebben om dit spel te spelen?
 is de UI en UX goed ?
 is het een spel die je vaker zou spelen in je vrije tijd?
+
+
+Meningvragen
+Vind je het een leuk spel
+Vind je de kleuren goed
+Vind je dat het spel een mooi uiterlijk heeft
+Vind je dat het menu een mooi uiterlijk heeft
+
