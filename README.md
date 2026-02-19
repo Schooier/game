@@ -25,4 +25,7 @@ A is naar links lopen
 P of ESC is op pauze drukken
 Op deze manier kan je alle levels doorspelen
 
+<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/5c04da71-6c1f-456e-909d-3fa87f0ab0a1" />
+
+
 Er is maar één bug die soms vervelend is, als je op een bewegend platform staat en die gaat onder een tile door dan sta je automatisch op die tile.
