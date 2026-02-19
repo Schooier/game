@@ -29,15 +29,19 @@ Op deze manier kan je alle levels doorspelen
 <img width="132" height="164" alt="image" src="https://github.com/user-attachments/assets/6c6ce4df-5d8f-41cc-8de4-07515b3e22fe" />
 
 <img width="154" height="148" alt="image" src="https://github.com/user-attachments/assets/c15d0971-d64b-4c78-9a09-8ba0e5f53c58" />
+<img width="114" height="122" alt="image" src="https://github.com/user-attachments/assets/3612df22-1f18-4247-81f7-1ed7b617b883" />
 
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/29fc37a6-f3f1-4610-9802-82ebb3d5b2c9" />
+<img width="93" height="109" alt="image" src="https://github.com/user-attachments/assets/e0069d87-8cff-4809-bc39-e1a9ea4af997" />
 
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/1a09ceb5-0099-472c-aad8-380b1fd5e36c" />
+<img width="114" height="122" alt="image" src="https://github.com/user-attachments/assets/a491e7dc-3975-4684-9ce7-d9e7e8c149af" />
 
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/cdec0d24-2352-473e-9d27-8f5ba2f1a8f6" />
 <img width="132" height="164" alt="image" src="https://github.com/user-attachments/assets/fc3e85f8-adfb-4a67-b866-c64b78dd8da2" />
 
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/320a0c23-42ef-490e-bb69-748623273076" />
+<img width="93" height="109" alt="image" src="https://github.com/user-attachments/assets/98cfc46b-dd27-4909-8d32-bcc708fd3ee9" />
 
 
 
