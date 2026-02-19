@@ -26,6 +26,7 @@ P of ESC is op pauze drukken
 Op deze manier kan je alle levels doorspelen
 
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/5c04da71-6c1f-456e-909d-3fa87f0ab0a1" />
+<img width="132" height="164" alt="image" src="https://github.com/user-attachments/assets/6c6ce4df-5d8f-41cc-8de4-07515b3e22fe" />
 
 <img width="154" height="148" alt="image" src="https://github.com/user-attachments/assets/c15d0971-d64b-4c78-9a09-8ba0e5f53c58" />
 
@@ -34,6 +35,7 @@ Op deze manier kan je alle levels doorspelen
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/1a09ceb5-0099-472c-aad8-380b1fd5e36c" />
 
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/cdec0d24-2352-473e-9d27-8f5ba2f1a8f6" />
+<img width="132" height="164" alt="image" src="https://github.com/user-attachments/assets/fc3e85f8-adfb-4a67-b866-c64b78dd8da2" />
 
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/320a0c23-42ef-490e-bb69-748623273076" />
 
