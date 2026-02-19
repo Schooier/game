@@ -3,7 +3,7 @@ Sven Bakker, Dylan de Metter en Marcel Touwen
 In dit project hebben wij een 2d platform game gemaakt en verbeterd. Er zijn 12 levels die steeds in moeilijkheid oplopen.
 
 Jungle Dash
-https://github.com/Schooier/game
+[https://github.com/Schooier/game](https://github.com/Schooier/game/tree/versie-v4)
 
 installatie instucties:
 installeer visual studio code
