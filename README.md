@@ -27,5 +27,16 @@ Op deze manier kan je alle levels doorspelen
 
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/5c04da71-6c1f-456e-909d-3fa87f0ab0a1" />
 
+<img width="154" height="148" alt="image" src="https://github.com/user-attachments/assets/c15d0971-d64b-4c78-9a09-8ba0e5f53c58" />
+
+<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/29fc37a6-f3f1-4610-9802-82ebb3d5b2c9" />
+
+<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/1a09ceb5-0099-472c-aad8-380b1fd5e36c" />
+
+<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/cdec0d24-2352-473e-9d27-8f5ba2f1a8f6" />
+
+<img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/320a0c23-42ef-490e-bb69-748623273076" />
+
+
 
 Er is maar één bug die soms vervelend is, als je op een bewegend platform staat en die gaat onder een tile door dan sta je automatisch op die tile.
