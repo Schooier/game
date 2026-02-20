@@ -43,6 +43,6 @@ Op deze manier kan je alle levels doorspelen
 <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/320a0c23-42ef-490e-bb69-748623273076" />
 <img width="93" height="109" alt="image" src="https://github.com/user-attachments/assets/98cfc46b-dd27-4909-8d32-bcc708fd3ee9" />
 
-
+In dit bestand staat de maker van het orginele spel: https://github.com/itspyguru/Python-Games.
 
 Er is maar één bug die soms vervelend is, als je op een bewegend platform staat en die gaat onder een tile door dan sta je automatisch op die tile.
